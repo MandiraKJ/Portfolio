@@ -1,3 +1,5 @@
-.rowOne {
-    margin-top: 5px;
-}
+<style>
+  .font-inter {
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  }
+</style>
